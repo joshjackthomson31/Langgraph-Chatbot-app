@@ -1,0 +1,10 @@
+# Secrets
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+
+# Local files
+conversation_history.txt
